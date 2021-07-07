@@ -34,7 +34,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Desktop-design 🖥️
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg) 
+![Design preview for the 3-column preview card component coding challenge](./design/desktop-design.jpg)  
 ## Active-State 👆
 
 ![Design preview for the 3-column preview card component coding challenge](./design/active-states.jpg)
