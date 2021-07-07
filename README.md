@@ -31,4 +31,17 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
+
+## Desktop-design 🖥️
+
+![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg) 
+## Active-State 👆
+
+![Design preview for the 3-column preview card component coding challenge](./design/active-states.jpg)
+## Mobile-design 📱
+
+![Design preview for the 3-column preview card component coding challenge](./design/mobile-design.jpg)
+
+
+
 **Have fun building!** 🚀
